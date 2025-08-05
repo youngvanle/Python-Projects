@@ -1,4 +1,4 @@
-# LabPractices
+# Lab Practices
 
 This folder contains a collection of small Python exercises and mini-programs completed during coursework.  These projects demonstrate fundamental programming concepts such as input/output, arithmetic operations, conditionals, loops, and string handling.
 
